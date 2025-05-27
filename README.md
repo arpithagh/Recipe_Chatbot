@@ -25,7 +25,9 @@
 
 ## 📦 Installation
 
-Install the required Python libraries:
+Clone the repository and install dependencies:
 
 ```bash
-pip install gradio groq python-dotenv
+git clone https://github.com/your-username/recipe-chat-bot.git
+cd recipe-chat-bot
+pip install -r requirements.txt
